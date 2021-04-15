@@ -1,0 +1,11 @@
+{
+  "name": "appautent",
+  "version": "1.0.0",
+  "description": "App Autentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Biscaia",
+  "license": "ISC"
+}
